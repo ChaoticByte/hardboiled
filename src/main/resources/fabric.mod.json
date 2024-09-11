@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "hardboiled",
+	"version": "${version}",
+	"name": "Hard Boiled",
+	"description": "Do something with your eggs. Boil them.",
+	"authors": [
+		"ChaoticByte"
+	],
+	"contact": {
+		"sources": "https://github.com/ChaoticByte/hardboiled"
+	},
+	"license": "MIT",
+	"icon": "assets/hardboiled/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.chaoticbyte.hardboiled.HardBoiled"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
