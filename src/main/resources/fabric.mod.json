@@ -8,7 +8,8 @@
 		"ChaoticByte"
 	],
 	"contact": {
-		"sources": "https://github.com/ChaoticByte/hardboiled"
+		"sources": "https://github.com/ChaoticByte/hardboiled",
+		"issues": "https://github.com/ChaoticByte/hardboiled/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/hardboiled/icon.png",
