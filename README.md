@@ -11,4 +11,5 @@ This is a Fabric-only mod.
 
 The following Minecraft versions are supported:
 
+- 1.20.1
 - 1.21.1
