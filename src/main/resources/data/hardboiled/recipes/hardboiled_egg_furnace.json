@@ -1,11 +1,9 @@
 {
-  "type": "minecraft:campfire_cooking",
+  "type": "minecraft:smelting",
   "ingredient": {
     "item": "minecraft:egg"
   },
-  "result": {
-    "id": "hardboiled:hardboiled_egg"
-  },
+  "result": "hardboiled:hardboiled_egg",
   "experience": 0.25,
   "cookingtime": 200
 }

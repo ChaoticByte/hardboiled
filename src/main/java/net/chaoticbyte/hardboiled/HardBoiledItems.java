@@ -1,6 +1,6 @@
 package net.chaoticbyte.hardboiled;
 
-import net.minecraft.component.type.FoodComponent;
+import net.minecraft.item.FoodComponent;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -9,7 +9,7 @@ import net.minecraft.util.Identifier;
 public class HardBoiledItems {
     // default food component
     public static final FoodComponent foodComponent = new FoodComponent.Builder()
-        .nutrition(3)
+        .hunger(3)
         .snack()
         .build();
     // register item
