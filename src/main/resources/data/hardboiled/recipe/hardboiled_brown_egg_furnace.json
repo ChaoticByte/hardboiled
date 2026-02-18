@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": "minecraft:brown_egg",
+  "result": {
+    "id": "hardboiled:hardboiled_egg"
+  },
+  "experience": 0.25,
+  "cookingtime": 200
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": "minecraft:blue_egg",
+  "result": {
+    "id": "hardboiled:hardboiled_egg"
+  },
+  "experience": 0.25,
+  "cookingtime": 200
+}
